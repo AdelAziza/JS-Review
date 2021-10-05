@@ -1,5 +1,5 @@
-function changeName(){
-    // document.getElementById('name').innerHTML ='My Name is Adel Aziza';
-    var lick=prompt("hello Adel", 10);
+function myName(){
+
+    document.getElementById("demo").innerHTML = "My name is Adel Aziza!"
 }
 
