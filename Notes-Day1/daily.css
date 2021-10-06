@@ -1,0 +1,17 @@
+.b {
+  font-size: 15px;
+  width: 100px;
+  height: 80px;
+  background-color: chartreuse;
+}
+
+body {
+  background-color: blueviolet;
+}
+
+#img1 {
+  width: 80px;
+}
+.pColor {
+  color: darkblue;
+}
